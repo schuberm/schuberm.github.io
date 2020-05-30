@@ -5,5 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=25uBwAkAAAAJ&hl=en)
+For a up to date list of publications please see my [Google Scholar](https://scholar.google.com/citations?user=25uBwAkAAAAJ&hl=en) profile.
 
