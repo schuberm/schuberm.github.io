@@ -11,4 +11,4 @@ redirect_from:
 
 Welcome
 ------
-This is an actively under construction site for my new lab in the [Chemical and Biological Engineering Department](https://engineering.uottawa.ca/chemical-and-biological) at the [University of Ottawa](https://www.uottawa.ca/en). We're looking for students! If you are considering graduate school in Canada with interests in physics, materials science or computer science, take a look at our [publications](https://scholar.google.com/citations?user=25uBwAkAAAAJ&hl=en) and please feel free to contact me (samuel.huberman(at)uottawa(.)ca).
+NEWS: I'll be moving to the [Chemical Engineering Department](https://www.mcgill.ca/chemeng/) at [McGill University](https://www.mcgill.ca/) on August 1, 2021. We're looking for students! If you are considering graduate school in Canada with interests in physics, materials science or computer science, take a look at our [publications](https://scholar.google.com/citations?user=25uBwAkAAAAJ&hl=en) and please feel free to contact me (samuel.huberman(at)uottawa(.)ca).
